@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An appeal to heaven and earth, against the Christian Epicureans, who have betrayed their king and countrey, and exposed them to the judgments of God drawn up in questions theological, and theologico-political/ by Socrates Christianus.</title>
+            <author>Stephens, Edward, d. 1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61419</idno>
+            <idno type="STC">Wing S5419</idno>
+            <idno type="STC">ESTC R8220</idno>
+            <idno type="EEBO-CITATION">11804209</idno>
+            <idno type="OCLC">ocm 11804209</idno>
+            <idno type="VID">49411</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61419)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49411)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 550:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An appeal to heaven and earth, against the Christian Epicureans, who have betrayed their king and countrey, and exposed them to the judgments of God drawn up in questions theological, and theologico-political/ by Socrates Christianus.</title>
+                  <author>Stephens, Edward, d. 1706.</author>
+               </titleStmt>
+               <extent>[8], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bristol Public Library, Bristol, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49411:1" rendition="simple:additions"/>
+            <p>An APPEAL TO HEAVEN and EARTH, Againſt The <hi>Chriſtian Epicureans,</hi> Who have betrayed their <hi>KING</hi> and <hi>Countrey,</hi> And Expoſed them to the <hi>Judgments</hi> of <hi>GOD,</hi> Drawn up in QUESTIONS <hi>Theological,</hi> and <hi>Theologico-Political</hi>
+            </p>
+            <p>By <hi>Socrates Chriſtianus.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year MDCXCI.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:49411:2" rendition="simple:additions"/>
+            <pb facs="tcp:49411:2"/>
+            <head>THE DESIGN Of the Following Queſtions,</head>
+            <p>BEcauſe it may be miſtaken by many, and is otherwiſe like to be fully underſtood by few, it is neceſſary to premiſe a brief Explication of it. It is not to expoſe any perſon, much leſs Him, whom all may perceive to be particularly concern'd in them. They were indeed written with ſome reſpect to him; but for his ſervice: partly for the neceſſary and more full <hi>Con<g ref="char:EOLhyphen"/>viction of a dangerous Error</hi> by him unhappily committed, that he may, before it be too late, provide to prevent the further Miſ<g ref="char:EOLhyphen"/>chiefs of it, by humbling himſelf in the ſight of the Lord ſpeedi<g ref="char:EOLhyphen"/>ly, and giving Glory to God by acknowledging his Fault, and a reſolute actual Amendment, whatever Difficulty or Danger occur in it. For a Great <hi>Fault</hi> it ſeems to be, and ſuch as is not to be denyed or palliated, in not well attending to the Deſign and Con<g ref="char:EOLhyphen"/>duct of the Providence of God, and Proſecuting his Service with that Fidelity, Generoſity and Magnanimity, as became an Inſtru<g ref="char:EOLhyphen"/>ment raiſed up by him; but ſtooping through Evil Counſels to vulgar, mean, and vain Policies: And the <hi>Danger</hi> of the Conſe<g ref="char:EOLhyphen"/>quence thereof ſeems to be no leſs, <hi>viz.</hi> Leſt being deſtitute and out of the way of that Conduct, which he deſerted to ſecure him<g ref="char:EOLhyphen"/>ſelf, or promote his Buſineſs, he fall into the very Evils he ſought to avoid, find the <hi>Egyptians,</hi> upon whom he leans, prove as broken Canes, which run into his hand; and the <hi>Cananites,</hi> whom he hath not, by a vigorous exerting his Authority, endeavoured
+<pb facs="tcp:49411:3"/>to ſubdue, as Pricks in his Eyes, and Thorns in his Sides, and a Snare unto him: Partly to repreſent to him the True <hi>Ends and Buſineſs of Government,</hi> and ſome of thoſe <hi>Faults</hi> therein, which have been committed by, and brought no little miſchief upon his Predeceſſors in this Kingdom, that he may with great Caution a<g ref="char:EOLhyphen"/>void the ſame, and all ſuch Counſels as might miſlead him into them: For it would greatly aggravate ſuch a Fault in Him, if He ſhould become guilty in the leaſt, but by attempt or deſire, of what he is raiſed up to puniſh in ſo near a Relation; and ſcanda<g ref="char:EOLhyphen"/>lize the Extraordinary Manifeſtation of the Providence of God in the late Revolution, and his own Enterprize, and make it and his Declaration ſuſpected of Hypocritical Ambition from the Begin<g ref="char:EOLhyphen"/>ning: And partly to make manifeſt to him what kind of <hi>Perſons</hi> in matters of Religion, and what in matters of State and Go<g ref="char:EOLhyphen"/>vernment, are very unſafe and dangerous for him, to rely upon their Counſel, Advice, or Judgment, even by his own Experience, as well as by the Examples of his Predeceſſors. For I can hardly be perſwaded that ever any Man in ſuch a height of Fortune was more betray'd than he hath been, one way or other by all ſorts, but moſt perniciouſly by thoſe of <hi>the Clergy,</hi> who have had any ſpecial Obligation or other Advantages of acceſs to him, Which brings me to <hi>another Part</hi> of the Deſign.</p>
+            <p>And this, as I ſaid before, is not to expoſe any, much leſs the Sacred Function; but for <hi>Admonition</hi> to thoſe who are faulty, ei<g ref="char:EOLhyphen"/>ther through Neglect of Watchfulneſs and Faithful Warning, through Unfaithful Caution and Forbearance for any ſelf reſpect, or through Error and Corruption of Judgment, whereby they de<g ref="char:EOLhyphen"/>parted out of the way and cauſed him to ſtumble from the Ancient Paths; that they may conſider well the Danger, which not only He, through their fault, but themſelves alſo are fallen into; For if he miſcarry therein, his Blood, and the Blood of thouſands more will be required at their hands, as I doubt they have much to an<g ref="char:EOLhyphen"/>ſwer for already for the many Souls, which in <hi>Ireland</hi> and elſe<g ref="char:EOLhyphen"/>where have died in their Sins and Wickedneſs, and might have been reclaimed; that they may conſider the danger thereby in Him brought upon all; for this is the pernicious Root of all our Miſchief, the Accurſed thing for which we cannot proſper: and well conſidering theſe things, they may conſider further, what is to be done, and by them more eſpecially, to ſtop the Wrath
+<pb facs="tcp:49411:3"/>which we may fear is gone out, and apply themſelves to it ſpeedi<g ref="char:EOLhyphen"/>ly, with a Zeal no leſs than that of <hi>Phineas.</hi>
+            </p>
+            <p>And for this purpoſe it is but reaſonable that this ſhould be done, to make it the more effectual, by way of <hi>APPEAL</hi> to all the Divines of this Church, or rather of all Proteſtant Churches, if not to Heaven and Earth, to High and Low, Rich and Poor: for all are concern'd in it, and it may be feared that the Sin reaches Heaven it ſelf, and may bring down Judgment upon our Heaven and Earth very ſuddenly, if not prevented by ſome ex<g ref="char:EOLhyphen"/>traordinary Means uſed without further delay. And this is the <hi>laſt part</hi> of the Deſign, ſubordinate to the Supream End of All, to make All, (for All are concerned,) ſenſible of their concern in this matter, and how dangerous the Caſe is; which is with us, juſt as it is in ſome Diſeaſes, which are never more dangerous, than when the Patient is leaſt ſenſible of Danger or Diſeaſe.</p>
+            <p>As <hi>Inſenſibility</hi> is a moſt dangerous Symptom, ſo of it in any ſuch Caſe we need not ſeek for further Evidence, when we may perceive it to have invaded the Clergy, who are as it were the Vitals in ſuch Caſes. Of which we have three notable Argu<g ref="char:EOLhyphen"/>ments and Proofs. The firſt is the Faults before mention'd, of ſuch as have any ſpecial Obligation, or other Advantage of Ac<g ref="char:EOLhyphen"/>ceſs, to the King, of which I need ſay no more.</p>
+            <p>Another is the common <hi>Diſcourſe</hi> of many in good earneſt, who can plainly laugh at a Univerſal Reformation, as a thing Im<g ref="char:EOLhyphen"/>practicable, or at leaſt Unſeaſonable, and think themſelves very wiſe in it; and therefore pleaſe themſelves in commending the Zeal of ſuch as are any whit earneſt for the promotion of it with a kind of inſulting pity for their weakneſs. Theſe Perſons, though I am well aſſured ſome of them do not intend it, really do ſtrengthen the hands of Evil Doers, and diſcourage the Work of the Lord; and how conceited ſo ever they may be of their own Parts or Prudence, are in this particular under two great and ſhameful Miſtakes or Over-ſights. 1. They do not conſider the Prevalence even of <hi>Humane Authority</hi> well exerted in a good Cauſe, and what hath been effected in their own time, or in the time of their Fathers, to the ſuppreſſion of the moſt common and impudent Vices which are now reviv'd and reign amongſt us, in ſo much that they durſt not appear, but were either wholly ſuppreſſed, or fled into Corners. 2. Nor do they any better conſider the <hi>Power of God,</hi> the Methods of his Providence, or the Nature of that Faith,
+<pb facs="tcp:49411:4"/>which is ſo highly extolled in the Sacred Scriptures; but are in truth, though they little think it, a kind of <hi>Chriſtian Epicureans,</hi> who confine the Providence of God to the Heavens, and have little apprehenſion of the ſecret Interpoſition of his Power in Humane Affairs and Actions.</p>
+            <p>This I impute in a great meaſure to an ill Education <hi>in our <g ref="char:V">Ʋ</g>niverſities,</hi> which were intended for Seminaries and Nurſeries of ſolid Learning and ſincere Piety and Virtue; but are by ma<g ref="char:EOLhyphen"/>ny thought to be now rather Seminaries and Nurſeries of Va<g ref="char:EOLhyphen"/>nity, Vice, and Faction; which I doubt hath too much of truth in it, and is therefore not impertinent to be here noted, eſpecially ſince in one of them we have a late notorious inſtance of their much greater inclination to favour ſcandalous Perſons, than good Diſcipline, even by a Publick Act; a Caſe wherein I doubt even one of our Biſhops hath but too much followed the Genius and Example of ſome of the Popes of <hi>Rome</hi> in their Uſurpations upon other Churches in the Matter of Appeals, to the Obſtruction of Diſcipline, which was before ſcandalouſly defective in ours. But as to <hi>the Education of youth there at this time,</hi> it ſeems more to exerciſe the Memory and Phancy than the Judgment; and to ha<g ref="char:EOLhyphen"/>bituate it rather to a looſe Sophiſtry, (apt to be ſway'd by the byaſs of the Affections, and to make Men conceited, captious, and contentious) than to cloſe and ſound Reſolutions; more to excite a concern for Politeneſs, Correctneſs of Expreſſions, and the ſuperficial Ornaments of Learning, and a paſſive diſpoſition to applauded and modiſh Notions and Opinions, to recommend themſelves and get Preferment, than an induſtrious Study of uſe<g ref="char:EOLhyphen"/>ful and neceſſary Truth, and to promote the Service of God and the Good of their Country. And hence it is that if a man for the ſervice of the Publick neglect or hazard what theſe men call his Intereſt, he is preſently looked upon with a little contempt, as an Object of Pity, if not reproached and ſeverely cenſured. Thus are thoſe Virtues, which in their time have had the higheſt Eſteem and Veneration with all Wiſe and Good Men, or rather with all Men, not only neglected, and loſt, but ſuppreſſed, diſ<g ref="char:EOLhyphen"/>couraged, or oppoſed, in this degenerate Age, even by ſuch as ſhould be the greateſt and moſt forward Encouragers and Pro<g ref="char:EOLhyphen"/>moters of them; the juſt Puniſhment whereof we are very like to feel e're it be long: and it doth not a little concern <hi>the Clergy,</hi> and <hi>the <g ref="char:V">Ʋ</g>niverſities,</hi> to be ſenſible of it in time.</p>
+            <pb facs="tcp:49411:4"/>
+            <p> And this Admonition will appear the more neceſſary by what I ſhall here obſerve in the third place; and that is from the Form of Prayer lately (Compos'd I cannot ſay, but) Publiſhed for the Faſt, which if I be not much miſtaken, is ſo defective in an Eſſential and Principal part of a ſpecial Office for ſuch a purpoſe; I mean, Con<g ref="char:EOLhyphen"/>feſſion of Sins, that it doth neither anſwer ſuch an occaſion in ge<g ref="char:EOLhyphen"/>neral, much leſs, the preſent condition of the Nation therein acknow<g ref="char:EOLhyphen"/>ledged in general; nor the Forms formerly Compoſed for the like occaſions, nor the Purport of the Queens Proclamation, nor the Do<g ref="char:EOLhyphen"/>ctrine of the Church of <hi>England;</hi> which is ſo great an Evidence of what I ſay in thoſe to whom the Care of that Buſineſs was commit<g ref="char:EOLhyphen"/>ted, that I ſhall forbear to ſay more of it here: And ſhall only add <hi>an Obſervation,</hi> which I happened to caſt my Eye upon while thinking of theſe things, <hi>That the War in</hi> New-England <hi>firſt began, and the Sword was firſt drawn upon a Day of Humiliation; and that much of the ſad News in the progreſs of thoſe Wars came at the cloſe of thoſe days: The Lord</hi> (ſays the Author) <hi>declaring thereby from Heaven, that he expects ſomething elſe from his People, on ſuch days, beſides Faſt<g ref="char:EOLhyphen"/>ing and Prayer; and that Prayer without Reformation will not do.</hi> And he further obſerves, <hi>That upon their renewing their Covenant with God, to reform the Evils among them, and to endeavour for the future to live more according to the Will of God in Chriſt Jeſus, the Courage and Spirit of the</hi> Indians <hi>was much taken off, and they had great ſucceſs againſt them.</hi> And becauſe I fear we may be too apt to deceive our ſelves with Miſ-interpretations of Providence as well as of Prophe<g ref="char:EOLhyphen"/>ſies, I ſhall leave it to Conſideration, Whether Mr. <hi>G. Walker</hi>'s In<g ref="char:EOLhyphen"/>terpretation of the Providence of God, to intimate by what Hand he would defend and maintain both their Majeſties Intereſt, and the (Proteſtant) Religion, was not afterward confuted, or checked at the next Engagement, at the <hi>Boyn,</hi> where he was one of the firſt ſlain on our ſide.</p>
+            <p>I wiſh as well as any Man to the Church of <hi>England,</hi> and there<g ref="char:EOLhyphen"/>fore cannot but wiſh that better and more effectual Means might be uſed in time for the Preſervation and Good of it. And becauſe we are like to have ſome new Biſhops e're long, from whom we may expect ſome good Conſiderations and Actions for that purpoſe, I wiſh it may be conſidered, both how that Defect aforeſaid may be ſeaſonably ſupplied, and whether ſome other Hymns may not be more proper for a Solemn Humiliation than the <hi>Te Deum,</hi> and <hi>O
+<pb facs="tcp:49411:5"/>be joyful.</hi> But with all it is fit to be conſidered whether it may be ſafe for the Clergy that any Form ſhould be impoſed upon them, or they be injoyned to read any but what is Au<g ref="char:EOLhyphen"/>thorized by Act of Parliament; or that any ſuch Expreſſions ſhould be preſcribed in the Prayers for Religious and Gracious Princes, which in the Reign of a prophane Prince or a Tyrant they can neither leave out without Danger, nor uſe without Of<g ref="char:EOLhyphen"/>fence to their Conſcience, and Scandal to the People. The for<g ref="char:EOLhyphen"/>mer Reigns afford Evidences of the Inconvenience, and the pre<g ref="char:EOLhyphen"/>ſent Opportunity to Reform them, according to the Ancient Sim<g ref="char:EOLhyphen"/>plicity and Piety.</p>
+            <p>But to Conclude, the Deſign of all is the Preſervation and Proſpe<g ref="char:EOLhyphen"/>rity of the King and Queen, the Church, and the whole Nation; and in order thereunto the Removal of the Impediment; which cannot be but by ſome Great and Heroick Acts, whereby the Fa<g ref="char:EOLhyphen"/>vour of the Divine Providence may be recovered: For by that Fault ſo often mentioned, the <hi>Adverſe Powers</hi> have gotten that Advantage which cannot otherwiſe be overcome. And for the Truth of this, I Appeal to the <hi>Inviſible Powers</hi> of Heaven, and to the <hi>truly Wiſe</hi> upon Earth, who in this Enchanted, Faſcinated, Blinded and De<g ref="char:EOLhyphen"/>mentated Age are very few, notwithſtanding all that great conceit<g ref="char:EOLhyphen"/>ed Confidence and Preſumption every where to be met with; I be<g ref="char:EOLhyphen"/>lieve it will not be long before we ſee the Reſolution of it one way or other, as we behave our ſelves.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:49411:5"/>
+            <head>QUESTIONS <hi>Theological,</hi> and <hi>Theologico-Political:</hi>
+            </head>
+            <div n="1" type="part">
+               <head>I. THEOLOGICAL, <hi>Propoſed to the</hi> DIVINES <hi>of the Church of</hi> England.</head>
+               <p n="1">I. WHETHER <hi>a Latent or <g ref="char:V">Ʋ</g>nobſerv'd Sin,</hi> doth not often, like a Root of Bitterneſs, produce great and continued Afflictions to ſingle Perſons, Fami<g ref="char:EOLhyphen"/>lies, and whole Nations, until it be found out and reformed; and often Exciſion or Extirpation at laſt, if there be no Reformation?</p>
+               <p n="2">II. Whether a <hi>Perſon ſucceeding in the Civil State of others,</hi> who ſucceſſively by abuſe of that State had contracted much Guilt, may not by committing the like Faults, or by neglecting the Reforma<g ref="char:EOLhyphen"/>tion of the Evils, which his Predeceſſors had introduced, derive the load of that Guilt upon himſelf?</p>
+               <p n="3">III. Whether it be not a moſt <hi>
+                     <g ref="char:V">Ʋ</g>ſual Method of the Divine Pro<g ref="char:EOLhyphen"/>vidence,</hi> when it pleaſeth God to Call, Lead, or Excite any Perſon to be his ſpecial Inſtrument for Good to a People (and not for Judgment or Vengeance, in which caſe he often uſeth Evil, and ſometimes the worſt of Men) to try and exerciſe ſuch perſon with various <hi>Tryals,</hi> many times Difficulties, and ſuch ſometimes as in the judgment of Men might ſeem inſuperable?</p>
+               <p n="4">IV. Whether <hi>Fidelity to God</hi> in Truſt and Confidence in his Wiſdom and Power, be not a ſpecial Duty in ſuch caſe abſolutely requiſite, and ſo neceſſary that a <hi>Fault</hi> therein doth always produce ſome ſmart Effects of God's Diſpleaſure; and many times Rejection or Deſtruction, unleſs prevented in time by manifeſt Works of Re<g ref="char:EOLhyphen"/>pentance and Reformation?</p>
+               <p n="5">
+                  <pb n="2" facs="tcp:49411:6"/> V. Whether much of that, which is <hi>Reputed</hi> and <hi>Practiſed</hi> as <hi>Wiſdom</hi> or Prudence in the World, even by Men of Learning and Religion, be not a meer Cheat and Impoſture, a Cover for thoſe dangerous Sins of Fearfulneſs and Diſowning of Chriſt, <hi>Revel.</hi> 21.8. <hi>Mar.</hi> 8.38. a ſubtile Stratagem and pernicious Deluſion of the Evil One to undermine and fruſtrate that Great and Heroic Virtue of Faith ſo much recommended in the S. Scriptures, and to cor<g ref="char:EOLhyphen"/>rupt this Fidelity to God in the proſecution of his Service in dif<g ref="char:EOLhyphen"/>ficult matters?</p>
+               <p n="6">VI. Whether in any good <hi>Occaſion</hi> or fair <hi>Opportunity</hi> for the Service of God, and Good of Men, eſpecially, if put into ones power, or recommended, as it were, afterwards by any <hi>ſpecial and extraordinary Manifeſtation of the Providence of God</hi> in Conducting, Preſerving and Proſpering the Perſon, <hi>Remiſneſs, Negligence, or Evil Management,</hi> eſpecially through ſuch ſatisfaction in ſome worldly acqueſt, or application to vulgar Prudentials and World<g ref="char:EOLhyphen"/>ly Wiſdom, as imply an <hi>Abatement either of Zeal</hi> or Affection to the further proſecution of the Service, <hi>or of clear and generous Truſt and Confidence</hi> in God, <hi>viz.</hi> without recourſe to dawbing ſhifts, in the proſecution of it, be not ſuch a Fault as aforeſaid?</p>
+               <p n="7">VII. Whether the <hi>Correction and Reformation</hi> of groſs and ſcan<g ref="char:EOLhyphen"/>dalous Prophaneneſs and Impieties amongſt a People by ſuch an extraordinary Providence ſubjected to ones Power and Authority, eſpecially when deſired and expected by many and the beſt part of them, be not a ſpecial Duty incumbent upon ſuch a perſon, and to be proſecuted without delay by all Good Means; and the Neglect and Procraſtination thereof, and employment in the mean time of perſons notorious for ſuch ſins and wickedneſs, without check or re<g ref="char:EOLhyphen"/>proof of their Faults, be not a piece of ſuch worldly Wiſdom, and ſuch a Neglect and Fault, and like to produce ſuch Effects, as aforeſaid?</p>
+               <p n="8">VIII. Whether a Fault in ſuch caſe as aforeſaid, continued or again committed, after plain <hi>Admonitions</hi> by whomſoeoer it be, if they be true, be not thereby greatly aggravated, and become ſo much the more dangerous?</p>
+               <p n="9">IX. Whether ſuch a fault continued, or again committed after remarkable <hi>Providential Warnings</hi> or Experiments in a Mans ſelf or others, be not thereby alſo aggravated, and become the more dangerous.</p>
+               <p n="10">X. Whether a conſiderable <hi>Change or Stop in Succeſs</hi> in the Pro<g ref="char:EOLhyphen"/>ſecution
+<pb n="3" facs="tcp:49411:6"/>of a Good Cauſe, ſo favoured as aforeſaid, by the Provi<g ref="char:EOLhyphen"/>dence of God, doth not oblige all, (but moſt the Perſons moſt con<g ref="char:EOLhyphen"/>cerned therein,) to enquire ſpeedily with all care and circumſpection into the true Cauſe thereof, and whether there be not ſomething amiſs, which might provoke God to withdraw or ſuſpend his Di<g ref="char:EOLhyphen"/>rection, or his Bleſſing, and permit the Diſappointment; and ſpeedily to reform the ſame?</p>
+               <p n="11">XI. Whether <hi>Neglect of Great Mercies</hi> without due Improvement and ſuitable Acts of real Gratitude be not a great Provocation of, and uſually followed by, ſo much the Greater and Severer Judge<g ref="char:EOLhyphen"/>ments?</p>
+               <p n="12">XII. Whether it be not the Duty of <hi>Miniſters of the Goſpel</hi> to be <hi>Watchmen</hi> as well as <hi>Paſtors,</hi> and to conſider well, and diſcern truly all ſuch Faults as may provoke the Judgments or Diſplea<g ref="char:EOLhyphen"/>ſure of God againſt a People, or their Governours, and to diſ<g ref="char:EOLhyphen"/>charge faithfully the part of <hi>True Prophets</hi> in plain Admonitions thereof; and not to ſeek Excuſes, but ſeek all Opportunities to do it: But the property of <hi>Falſe Prophets</hi> to flatter Princes, and Great Perſons, and to lead them and the People into Security, or confirm them therein, by ſmooth, and pleaſing, and procraſtina<g ref="char:EOLhyphen"/>ting Doctrines, inſtead of exciting them to ſerious Repentance, ſpeedy Reformation, or neceſſary Duty, eſpecially when Judge<g ref="char:EOLhyphen"/>ments are approaching?</p>
+               <p>To theſe I think fit to ſubjoyn One <hi>Queſtion of Fact,</hi> concern<g ref="char:EOLhyphen"/>ing the preſent State and Condition of all the Proteſtant Churches, worthy to be well conſidered by all ſerious Perſons of whatever Proteſtant or Reformed Church, at leaſt for their own Uſe and Benefit. <hi>viz.</hi>
+               </p>
+               <p>Whether <hi>the Religion, State</hi> and Condition <hi>of all or moſt of the Churches, called in general Proteſtant or Reformed,</hi> however diſtin<g ref="char:EOLhyphen"/>guiſhed into ſeveral ſubdiviſions, be not greatly deformed, and degenerated from the geniune and compleat State of Chriſtianity? <hi>viz.</hi> either into</p>
+               <p n="1">1. External <hi>Formality,</hi> Superficial Morality, and uncharitable violent Faction, after the Genius of the Imperial <hi>Romans;</hi> or</p>
+               <p n="2">2. <hi>Notions,</hi> and unprofitable Speculations, and Animoſities and Contentions about them, after the Genius of the popular <hi>Gre<g ref="char:EOLhyphen"/>cians;</hi> and</p>
+               <p n="3">3. <hi>Neglect,</hi>
+               </p>
+               <p n="1">1. Of divers great and fundamental <hi>Chriſtian Doctrines and Virtues, viz.</hi> of</p>
+               <p n="1">
+                  <pb n="4" facs="tcp:49411:7"/> 1. Humility, out of a due Sence of the Excellency and Holi<g ref="char:EOLhyphen"/>neſs of God, and of the Meanneſs and Corruption of Man, and Vanity of all Earthly things.</p>
+               <p n="2">2. Contempt of the World, and of the Pomps and Vanities, and Superfluities thereof, which antiently all Chriſtians did re<g ref="char:EOLhyphen"/>nounce in their Baptiſm.</p>
+               <p n="3">3. Generous, Active Faith and Vigorous Charity in promoting the Honour of God, and the Salvation of Souls; notwithſtanding the great Advantages God by his Providence hath given to proſe<g ref="char:EOLhyphen"/>cute ſo Glorious a Work to the remoter parts of the World.</p>
+               <p n="2">2. Of certain <hi>neceſſary Chriſtian Means.</hi>
+               </p>
+               <p n="1">1. In ſecret Retirements, of Meditation, Contemplation, and Fervent Prayers, with Faſting and Watching upon ſpecial Oc<g ref="char:EOLhyphen"/>caſions.</p>
+               <p n="2">2. In Publick, of the moſt Solemn and peculiar part of the Chriſtian Worſhip, deſigned both for the Honour of God by ſo<g ref="char:EOLhyphen"/>lemn Recognition of our Redemption, and for our own Benefit, as an external Medium of Sacred and Spiritual Communion both with Him, and with one another.</p>
+               <p n="3">3. Of Improvement of that portion of our time, which moſt Churches in all Ages have commended at leaſt, and obſerved, (if not injoyned to be uſed) for religious Employments, for Edifica<g ref="char:EOLhyphen"/>tion of our own and others Souls, under the name of the <hi>Lord's Day.</hi> And at laſt,</p>
+               <p n="4">4. A Deluge of provoking Sin: either</p>
+               <p n="1">1. <hi>Groſs</hi> and Scandalous Prophaneneſs, Impieties, and Contempt of all Religion through want of effectual Diſcipline: or</p>
+               <p n="2">2. <hi>Such as eaſily eſcaping the external Diſcipline of Men,</hi> are fre<g ref="char:EOLhyphen"/>quently puniſhed, even in this World, by ſome remarkable Judge<g ref="char:EOLhyphen"/>ments of God; ſuch as <hi>Covetouſneſs,</hi> which the Sacred Scripture calls Idolatry, and the Root of all Evil, <hi>Col.</hi> 3.5. 1 <hi>Tim.</hi> 6.10.) Deceit, Exaction, Pride, Oſtentation, Emulation, Contention, Idleneſs, Luxury, and many ſuch like. And upon that Conſideration,</p>
+               <p n="1">1. Whether from ſuch a deformed and corrupt Eſtate, there be not great reaſon to fear, (eſpecially if the Motions of Providence be more ſwift in after times than formerly, as ſome Learned Men ſuppoſe,) that moſt of theſe Churches may e're long be overtaken by ſome ſevere Correction, to purge that Wickedneſs, which neither extraordinary Mercies, nor the remoter approaches of Judgments could prevail with them to reform?</p>
+               <p n="2">
+                  <pb n="5" facs="tcp:49411:7"/> 2. Whether it be not more prudent and more pious to take that Warning of the Lord of Hoſts by his Prophet: <hi>Amend your Ways, and your Doings;</hi> and <hi>Truſt ye not in Lying Words, ſaying the Temple of the Lord, the Temple of the Lord,</hi> &amp;c. <hi>But go ye to My Place, which was at Shiloh, where I ſet My Name at the firſt; and ſee what I did to it, for the wickedneſs of My People Iſrael.</hi> and to conſider well the following Denunciation: <hi>And now becauſe ye have done all theſe works, ſaith the Lord, and I ſpake unto you, ri<g ref="char:EOLhyphen"/>ſing up early, and ſpeaking, but ye heard not; and I called you, but ye anſwered not: Therefore will I do unto this Houſe, which is called by my Name, wherein ye truſt, and unto the Place which I gave to you and to your Fathers, as I have done to Shiloh,</hi> Jer. 7.3, 4, 12, 13, 14. then either to flatter our ſelves in our Sins, Tranſ<g ref="char:EOLhyphen"/>greſſions, or Neglects of Duty and Reformation, with vain hopes that God will either accept of our <hi>Inward Purpoſes,</hi> or ſpare us for our outward Profeſſion, <hi>leſt the Adverſaries ſhould behave themſelves ſtrangely,</hi> and preſerve us from the Power of King <hi>Lewis,</hi> any more than he did his People heretofore from that of King <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzer;</hi> or hearken to ſuch as <hi>pervert the words of the Living God, cauſe us to err by their Lies, and by their Lightneſs, and ſtrengthen the hands of Evil-Doers, that none doth return from his Wickedneſs.</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>II. <hi>Queſtions Theologico-Political,</hi>
+               </head>
+               <div type="section">
+                  <head>
+                     <hi>Propoſed to the</hi> Wiſe <hi>and</hi> Virtuous <hi>of the</hi> Nation.</head>
+                  <p n="1">I. WHether what Theology reſolves to be the Duty of Princes and Governours, that is, to be <hi>the Miniſters of God, for Good</hi> to the People, (<hi>Rom.</hi> 13.4, 6.) that they may <hi>lead a quiet and peaceable life, in all Godlineſs and Honeſty,</hi> be not alſo as certain and clear a principle of true Policy, the very End of Go<g ref="char:EOLhyphen"/>vernment, and the intereſt of Governours, and the proper way to make their Government Stable, Eaſy, and Honourable? This in general: But more particularly,</p>
+                  <p n="2">II. Whether it hold not true in Policy, which is affirmed in
+<pb n="6" facs="tcp:49411:8"/>Theology, that <hi>The Throne is eſtabliſhed by Righeeouſneſs</hi> (<hi>Prov.</hi> 16.12.) that is, whether the ſtrict and punctual obſervance of Reli<g ref="char:EOLhyphen"/>gion and Piety toward God, and of Juſtice, Love, and Goodneſs to the People, eſpecially by promoting of Godlineſs and Honeſty amongſt them, be not the moſt effectual means <hi>to Eſtabliſh a Go<g ref="char:EOLhyphen"/>vernment,</hi> even upon Civil Conſiderations, as well as Religious?</p>
+                  <p n="3">III. Whether Juſtice, Righteouſneſs, and continual Attendance to the Good of a People, and the Peoples Experience of the good Intentions and Prudence of their Governours, be not the moſt ef<g ref="char:EOLhyphen"/>fectual method <hi>to make a Government Eaſy</hi> to the Governour, as well as to the People, even upon a Civil account?</p>
+                  <p n="4">IV. Whether ſuch continual Attendance, Study, Care, and En<g ref="char:EOLhyphen"/>deavours to promote their Good in all reſpects, be not the very Work of Good Angels, nay, of God himſelf, and a Subſervience thereunto in Governours, and their proper and ſpecial Calling, and as therefore very pleaſing to God, and his Bleſſed Angels, ſo alſo the direct and moſt certain means <hi>to be truly Honourable</hi> amongſt Men, eſpecially the beſt, both of the preſent and future Gene<g ref="char:EOLhyphen"/>rations?</p>
+                  <p n="5">V. Whether to take care,
+<list>
+                        <item>For the Defence and Protection of the People,</item>
+                        <item>For neceſſary Accomodations for their Living,</item>
+                        <item>That they may be trained up in Induſtry, and Activity,</item>
+                        <item>That they may be Sober, and Frugal.</item>
+                        <item>That they may be great Lovers of their Country, and their Emulation be moſt excited that way,</item>
+                        <item>And that they may be inſtructed to be Underſtanding, and In<g ref="char:EOLhyphen"/>genuous, and to be Virtuous, and Pious,</item>
+                     </list> be not neceſſary <hi>Particulars of that Good of a People,</hi> which is to be ſo ſtudied and endeavoured? And whether it be not much more Honourable to be a Beloved Governour of an Induſtrious, Wealthy, Free, Ingenuous, and Virtuous People, than a dreaded Tyrant over a Poor, Baſe, Slaviſh, Barbarous and Vitious People?</p>
+                  <p n="6">VI. Whether it be not more Generous and Commendable for <hi>a Prince to relinquiſh ſuch Rights</hi> as are either indirectly gotten, or cannot be uſed without Inconvenience, either to the People, or
+<pb n="7" facs="tcp:49411:8"/>(which may ſometimes happen) to himſelf, to gratifie the People or oblige their Affections to him, than ſtrictly to aſſert it, out of a vain Diſdain (<hi>Rehoboam</hi> like) to comply with the People, or to gra<g ref="char:EOLhyphen"/>tifie ſome particular Favourite; moſt agreeable to the End of Go<g ref="char:EOLhyphen"/>vernment, moſt pleaſing to God, and moſt Advantageous and Honourable to the Prince himſelf?</p>
+                  <p n="7">VII. Whether <hi>Ambitious Deſire of Independant Power</hi> over others, and to be feared and worſhiped by them, and actual Study and En<g ref="char:EOLhyphen"/>deavours to acquire the ſame by Fraud, or Force, by War, Slaugh<g ref="char:EOLhyphen"/>ters, Devaſtations, and Diſturbance of the Peace and Quiet of Men, be not the very State of the Devils, and Diabolical Actions, odious both to God, and to Men; and ſuch as frequently produce very unhappy Effects to ſuch ambitious Perſons, or their Poſterity?</p>
+                  <p n="8">VIII. Whether <hi>Oppreſſion of Subjects</hi> by Power, or Encroaching upon their Rights by Craft and Tricks, and ſetting up of a Sepa<g ref="char:EOLhyphen"/>rate Intereſt, be not contrary to the End of Government, tending to the Diſſolution thereof, and uſually firſt or laſt, as pernicious to ſuch Governours, or their Poſterity, as troubleſome to the Peo<g ref="char:EOLhyphen"/>ple?</p>
+                  <p n="9">IX. Whether to ſet up, and engage a Party or <hi>Faction</hi> to be<g ref="char:EOLhyphen"/>tray the Rights of their Fellow-Citizens or Countrymen, and to oppreſs the reſt under pretence of Religion or Civil-Right, doth not greatly weaken a Government, tend to the Diſſolation thereof, and provoke the Judgments of God, who hates all Injuſtice and Oppreſſion, but eſpecially when done with a High-Hand, Great-Craſt, or under pretence of Juſtice, or of Religion, which adds Profaneſs to Injuſtice?</p>
+                  <p n="10">X. Whether the true and proper End and Deſign of <hi>Honours</hi> be not to recommend Virtue and Merit by eminent Service for the Publick; but the conferring of Honours upon Ambitious and Aſpi<g ref="char:EOLhyphen"/>ring Perſons for other Reſpects, an Abuſe and a Fruſtration of the proper End thereof, rendring them inſignificant, an injury to Eminent Virtue, Publick Merit, and true Nobility, and an En<g ref="char:EOLhyphen"/>couragement to Ambition, Vanity, and indirect Practices; and contrary, both to good Government, and to Chriſtianity? and
+<pb n="8" facs="tcp:49411:9"/>ſuch Ambitious and Aſpiring Perſons to be looked upon as Ene<g ref="char:EOLhyphen"/>mies to Humane Society, and the Peſt of their Countrey?</p>
+                  <p n="11">XI. Whether <hi>Prodigality of Princes to inſinuating or impudent Fa<g ref="char:EOLhyphen"/>vourites,</hi> or permitting Officers or Servants to Cheat them, be not an Abuſe of their Eſtate, an Injury to the Publick, a great Occaſion to corrupt the Manners of the People with Covetouſneſs, Diſ<g ref="char:EOLhyphen"/>honeſty and Knavery, and inconſiſtent with good Government, and with the Duty of Gover<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ours to God, whoſe Stewards and Deputies they are? And ſuch greedy Favourites, and diſhoneſt Of<g ref="char:EOLhyphen"/>ficers and Servants, to be looked upon by all honeſt Men, as Ver<g ref="char:EOLhyphen"/>mine, Horſe-Leeches, and common Enemies, and to b<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> p<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oſecuted by all juſt and lawful means, that they may b<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> to re<g ref="char:EOLhyphen"/>fund, and be diſcharged from all Publick Truſt and Implo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ment?</p>
+                  <p n="12">XII. Whether to allow greater <hi>Salaries and Profits</hi> than ne<g ref="char:EOLhyphen"/>ceſſary to Great Officers, and leſs Wages and Pay to common Seamen and Souldiers, than will maintain them to live honeſtly and comfortably, and be a reaſonable Reward for their Labour and Ha<g ref="char:EOLhyphen"/>zard; or to ſuffer Officers to abuſe their Souldiers in their Pay or Wages; be not a great Iniquity, contrary to good Government, to Chriſtianity, and even to Humanity it ſelf?</p>
+                  <p n="13">XIII. Whether the maintaining and protecting of <hi>Favourites</hi> from Juſtice, who by their Inſolence, Ambition, or Covetouſneſs; or by Evil Counſels, are grown odious or ſuſpicious to the People, and occaſion Differences between the Prince and People, be not a great Fault in Divinity, and a great Error in Policy, and incon<g ref="char:EOLhyphen"/>ſtant with the Ends of Government?</p>
+                  <p n="14">XIV. Whether the common Sentiments and Practices of the greateſt part of Man-kind, be not as Corrupt, Falſe, and Erro<g ref="char:EOLhyphen"/>neous in reſpect of true Policy, and Prudent management of Pub<g ref="char:EOLhyphen"/>lick Affairs, as in reſpect of Morality in Private Matters?</p>
+               </div>
+               <div type="section">
+                  <pb n="9" facs="tcp:49411:9"/>
+                  <head>The true Reſolution of theſe Queſtions</head>
+                  <p>Is very eaſie by Reaſon and Humane Authority as well as Divine: If a Prince will act like a Man, he muſt conſider, VVhat is the End of Man's being upon Earth? And then apply himſelf with all his Vigor and Advantages to promote that. And from this one Principle of Reaſon may all theſe and many more Queſtions be re<g ref="char:EOLhyphen"/>ſolved. And for <hi>Humane Authority, Ariſtotle,</hi> (whom, even thoſe learned and ingenious Gentlemen, who do not much admire his Phyſicks, repute a Great Man in Politicks, as that which he was moſt verſed in) hath well diſtinguiſhed the difference between a <hi>King, viz.</hi> He who intends the Common Good; and a <hi>Tyrant, viz.</hi> He who acts all for himſelf, and converts all to that; and to that end, uſually endeavours to unman the People, by corrupting their Manners; to Divide them into Parties and Factions; and to Diſ<g ref="char:EOLhyphen"/>able them in their Eſtates and Power. But a <hi>King,</hi> one worthy of that Name, who intends the Common Good, takes Care of Reli<g ref="char:EOLhyphen"/>gion, and to keep his Reputation in that reſpect; takes care of the Education of the People, that from their very Youth they may be preſerved from Vice, even from the ſight of Obſcene Objects, and the hearing of obſcene Speeches; and from Plays, <hi>&amp;c.</hi> and is more ready to ſtrengthen his Empire in the Hearts of his People, even by Abridging his own Power, than to enlarge his Power by encroaching or uſurping upon their Rights: And therefore he com<g ref="char:EOLhyphen"/>mends the Anſwer of <hi>Theopompus</hi> to his VVife, who reproached him for admitting ſome Limitations? of his Power, <hi>That he had rather have his Empire Firm and Strong, than Large and Looſe.</hi>
+                  </p>
+                  <p>And indeed if we look into Hiſtory, and eſpecially our own, we ſhall find, that the braveſt Princes, the moſt VViſe and Gene<g ref="char:EOLhyphen"/>rous, and moſt Happy, have been of his Mind: That thoſe who have done otherwiſe have been Perſons of weak or mean Parts or Spirits, or impoſed upon by <hi>Favourites:</hi> That the great and moſt active <hi>Aſſertors of pretended Prerogative and irreſistable Regal Power</hi> have been for the moſt part either Men of Deſign, or impoſed upon by the Prejudice of Education, or by the Authority of ſome Leaders, who have only ſerved themſelves thereby, to the great Diſſervice of their King and Country; and that the Income thereby raiſed for the King hath all in a manner been devoured by thoſe Vermin, and the Power ſo uſurped, employed for the moſt part only to ſecure them in their Evil Practices, or to ſerve them to Tyrannize and
+<pb n="10" facs="tcp:49411:10"/>Oppreſs their Fellow-Subjects, while the King in the mean time reaped no real Benefit or Advantage at all, but loſt much in the Affection of the People, in the Stability and Strength of his Go<g ref="char:EOLhyphen"/>vernment, in his Honour both with the preſent Generation, and to all Poſterity, and in the Satisfaction of a good Conſcience; and for the moſt part incurred other Miſchiefs beſides, by the Special Judgments of God upon him, for his Abuſe or Evil Adminiſtration of ſo great a Charge. So that upon a true account it is moſt certain, that there is not a worſe ſort of Men in any State, and more pernicious to Princes themſelves than theſe; and that the Crimes of Thieves, Robbers and Pyrates are ſmall and pardonable Faults in reſpect of them. They have two Properties which can never be concealed from others, that is, <hi>Covetouſneſs</hi> and <hi>Am<g ref="char:EOLhyphen"/>bition;</hi> but they have a third, which Princes ought to be as jealous of, as of the moſt ſubtile Policies of their profeſſed Enemies, and that is <hi>Flattery,</hi> and pretence of Service. As it is <hi>puniſhable</hi> only in Parliament, ſo that Parliament muſt be very unfaithful both to King and Country, which ſhall neglect to do it with all Care and Reſolution, and ſo much the more, by how much the more diſſi<g ref="char:EOLhyphen"/>cult it is. Nor can any Prince be more unjuſt to himſelf and to his Government, than to hinder them in it. Nor was ever ſuch Ju<g ref="char:EOLhyphen"/>ſtice more neceſſary than at this time, when ſo extraordinary a Mercy of God, as our late Deliverance, is like to be fruſtrated and turned into Confuſion by the Wickedneſs of ſuch Ravenous Beaſts, as in ſuch a Caſe as we are now in, will not forbear to prey upon the Country, (poor miſerable <hi>Ireland</hi> eſpecially) to prey upon their Fellow-Soldiers, and to prey upon the publick Revenue and the King himſelf, to gratifie their Inſatiable Ambition and Bruitiſh Luſts. It is a Wickedneſs that reaches Heaven, and will bring down ſpeedy Judgments thence; nay, will prove ſuch it ſelf, and bring Confuſion upon King and Parliament both, if they do not ſpeedily and ſeverely puniſh it, and redreſs it. I know not a more abominable Wickedneſs againſt Man, than to add Affliction to the Afflicted, to make Advantage of Publick Calamicies and Dangers, and to rob Men of the Price of their Blood: nor a more Juſt, Glorious, and Prudent Action for a Prince, than to hang up, and make Examples of ſome of the Greateſt Offenders of this kind, and ſqueez the reſt, as an acceptable Expiation to God, and moſt grateful Satisfaction to Men. I ſhall conclude with a brief Abſtract concerning ſuch Creatures in former times, taken out of</p>
+               </div>
+               <div type="section">
+                  <pb n="11" facs="tcp:49411:10"/>
+                  <head>
+                     <hi>The Lord Chief Juſtice</hi> Coke<hi>'s Chapter <hi>Of Flattery,</hi> in his Pleas of the Crown,</hi> ch. 99.</head>
+                  <p>THE Flattering mouth worketh ruine, Prov. 26.28. <hi>and more Kings and Kingdoms have béen over<g ref="char:EOLhyphen"/>thrown by the means of Flattery, than by Publick Hoſtility.</hi>
+                  </p>
+                  <p>Rex caecus cernit cum Sycophanta perit.</p>
+                  <p>
+                     <hi>What Fearful Ends Flattering Favourites, Corrupters of their Sovereign Liege Lord, abuſing their Favours in Subverſion of their Laws, have had, appeareth in our Par<g ref="char:EOLhyphen"/>liament Rolls, Records and Hiſtories.</hi>
+                  </p>
+                  <p>[William 2. <hi>had</hi> Ralph Flambard <hi>Biſhop of</hi> Durham,
+<note place="margin">Daniel in W. 2. &amp; H. 1.</note> 
+                     <hi>and others, whom he corrupted to counterpoiſe the Clergy, awe the Layety, and countenance his Illegal Proceedings. Of him the King uſed to ſay, that <hi>Ranulph was the only Man for his turn, who car'd not whom he diſpleas'd,
+<note place="margin">Mat. Par. p. 56.</note> ſo he might pleaſe his Maſter.</hi>
+                     </hi> Sed mortuo Rege iniquo, &amp; Henrico coronato, <hi>de Communi Concilio, Gentis Anglorum, poſuit eum Rex in Vincu<g ref="char:EOLhyphen"/>lis,</hi> a quibus cum cuſtodibus ſuis pecunia corruptis, evaſiſſer, tranfsactavit clam in Normanniam, &amp; ſua Exhortatione Du<g ref="char:EOLhyphen"/>cem Robertum commovit in Regem fratrem ſuum.]</p>
+                  <p>
+                     <hi>King</hi> Henry 3. <hi>had</hi> Hubert de Burgo,
+<note place="margin">Rot. Parl. and 17 H. 3. <hi>Speed</hi> 18 H. 3. 520. 2 Inſt. Proem. p. 2.</note> 
+                     <hi>Chief Iuſtice and Earl of</hi> Kent, <hi>and many others: But this was his Safety, that upon juſt occaſion, without any great Grief, he would forego a Favourite. Sée in the Preface to the Second Part of the Inſtitutes, his Counſel to</hi> H. 3. <hi>to burn</hi> Magna Charta.</p>
+                  <p>E. 2. <hi>had</hi> Pierce de Gaveſton, <hi>the</hi> Spencers, &amp;c.
+<note place="margin">Rot. Parl. 7 E. 2. 2 part, 44.50. <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</note> 
+                     <hi>and the</hi> Spen<g ref="char:EOLhyphen"/>cers <hi>procéeding againſt</hi> le Grand Charter <hi>by Name, (amongſt other things) tending to the Subverſion of the Law,</hi> &amp;c.</p>
+                  <p>R. 2. <hi>had Sir</hi> Robert Treſilian <hi>Chief Iuſtice,</hi> &amp;c.
+<note place="margin">Rot. Parl. 11. E. 2. nu. 8. &amp;c.</note> 
+                     <hi>and</hi> Robert <hi>Earl of</hi> Oxford <hi>and Duke of</hi> Ireland, &amp;c.</p>
+                  <p>H. 6. <hi>had</hi> William de la Pole <hi>Duke of</hi> Suffolk, &amp;c.
+<note place="margin">Rot. Parl. 28 H. 6. nu. 1<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> to 47.</note> 
+                     <hi>who endeavoured to have brought in the Civil Laws; which was the occaſion that the Chief Iuſtice</hi> Forteſcue <hi>wrote in the Commendation of the Laws of</hi> England, <hi>preferring them for the Government of this Land before the Civil Laws. This Duke, with others, plotted the Death and Deſtruction of</hi> Humfrey, <hi>the Good Duke of</hi> Gloceſter, <hi>who ever ſtood in his way.</hi>
+                  </p>
+                  <pb n="12" facs="tcp:49411:11"/>
+                  <p>
+                     <note place="margin">Hollinſh 713.2.30.</note>E. 4. <hi>had</hi> William <hi>Lord</hi> Haſtings, <hi>the Kings Chamberlain, and Captain of</hi> Calice. <hi>All theſe came to fearful and un<g ref="char:EOLhyphen"/>timely Ends.</hi>
+                  </p>
+                  <p>
+                     <note place="margin">Hollinſh. 722.748.767.</note>R. 3 <hi>had Sir</hi> John Catesby, <hi>one of the Iuſtices of the Common Pleas, and</hi> Henry <hi>Duke of</hi> Buckingham, &amp;c. <hi>Privy Plotters and Counſellors with</hi> R. 3. <hi>for the moſt ex<g ref="char:EOLhyphen"/>ecrable Murther of his Nephews</hi> E. 5. <hi>and</hi> Richard <hi>Duke of</hi> York. <hi>What a miſerable End the Duke had, you know; and Iuſtice</hi> Catesby <hi>in his Iourney to</hi> London, <hi>in the Kings High way, had</hi> Subitaneam &amp; improviſam mortem.</p>
+                  <p>
+                     <note place="margin">Coram Rege An. <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>H. H. 8. In Information verſ D. Petor, &amp; alios. The like In<g ref="char:EOLhyphen"/>dictment a<g ref="char:EOLhyphen"/>gainſt <hi>Edmond Dudley.</hi> 4 Inſt. 198. Anderſ. 1.156. Godb. 107. Herb. H. 8. p. 6. Bac. H. 7. p. 209</note> 7. <hi>Had Sir</hi> Richard Empſon, Edmond Dudley, &amp;c. <hi>Sir</hi> Richard Empſon <hi>was Indicted,</hi> Quod ipſe Conſiliarius Excellentiſſimi Principis Henrici nuper Regis Angliae Septimi, Deum praeoculis non habens, ſed ut filius diabolicus ſubtiliter imaginans honorem, dignitatem, &amp; proſperitatem dicti nu<g ref="char:EOLhyphen"/>per Regis ac proſperitatem Regni ſui Angliae minime valere, ſed ut ipſe magis ſingulares favores dicti nuper Regis adhibere unde magnatem ſieri potuiſſet, ac totum Regnum Angliae ſecundum ejus voluntatem gubernare, falſo, deceptive &amp; proditorie Legem Angliae ſubvertens, diverſos ligeos ipſius nuper Regis, ex ſua falſa Covina, &amp; ſubtili ingenio contra communem legem regni Angliae de diverſis feloniis, &amp;c. In<g ref="char:EOLhyphen"/>dictari fecit, &amp;c. Per quod plures &amp; diverſi populi dicti nu<g ref="char:EOLhyphen"/>per Regis his gravaminibus &amp; indebitis exactionib' multipli<g ref="char:EOLhyphen"/>citer torquebantur, in tantum quod populi dicti nuper Regis verſus ipſum nuper Regem multipliciter murmurabant, &amp; malignabant in magnum periculum ipſius nuper Regis Regni ſui Angliae,
+<note place="margin">Tr. 23 H. 8. coram Rege Rot 14. See the Articles a<g ref="char:EOLhyphen"/>gainſt Cardi<g ref="char:EOLhyphen"/>nal <hi>Woolſey,</hi> 4 Inſt. ch. 8. p. 89.</note> ac ſubverſionem legum &amp; conſuetudinum ejuſdem Regni, &amp;c. <hi>And the like Indictment was againſt</hi> Dudley.</p>
+                  <p>Hen. 8. <hi>had</hi> Tho. Woolſey <hi>Cardinal,</hi> Ipſe intendens fina<g ref="char:EOLhyphen"/>liter antiquiſſimas Angliae Leges penitus ſubvertere, &amp; ener<g ref="char:EOLhyphen"/>vare univerſumque hoc Regnum Angliae, &amp; ejuſdem Regni populum Legibus Imperialibus vulgo dict' Legibus Civilibus &amp; earundem Legum Canonibus ſubjugare, &amp; ſubducere, &amp;c.</p>
+                  <p>
+                     <hi>We will for ſome Cauſes deſcend no lower.</hi> Qui eorum Veſtigiis inſiſtunt, eorum exitus perhorreſcant.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
